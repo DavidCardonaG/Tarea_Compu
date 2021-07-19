@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+    background-image: url("http://citywallpaperhd.com/uploads/photo/full/164-luces-de-la-noche-de-la-ciudad.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+h1,h2,h3{
+    font-style: italic;
+    font-weight: bold;
+}
+#title{
+    color: white;
+}
+p{
+    font-style: italic;
+    font-weight: bold;
+}
+label{
+    align-items: center;
+    display: flex;
+    margin-bottom: 8px;
+}
+form{
+    width: 400px;
+    padding: 20px;
+    border-radius: 15px;
+    margin: auto;
+    background-color: rgba(255, 254, 254, 0.651) ;
+   
+}
+footer{
+    background-color: rgba(201, 201, 201, 0.575);
+    color: black;
+    text-align: center;
+   font-size: 17px;
+    font-style: oblique;
+    font-weight: bold;
+    align-items: center;
+}
